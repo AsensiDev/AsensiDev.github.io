@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asensidev.github.io/sitemap-index.xml
