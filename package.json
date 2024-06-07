@@ -1,6 +1,7 @@
 {
   "name": "porfolio-dev",
   "type": "module",
+  "homepage": "https://asensidev.github.io/",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
@@ -9,7 +10,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "subir": "gh-pages -d dist"
   },
   "dependencies": {
     "@astrojs/check": "0.5.6",
